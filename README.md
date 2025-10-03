@@ -14,13 +14,13 @@ The goal is to learn and experiment with vectorized operations such as vector ad
 ---
 
 ## 📂 Directory Structure
-'''
+```
 .
 ├── avx/ # AVX examples
 ├── avx2/ # AVX2 examples
 ├── avx512/ # AVX-512 examples
 └── benchmark/ # Performance comparison codes
-'''
+```
 ---
 
 ## ⚙️ Requirements
